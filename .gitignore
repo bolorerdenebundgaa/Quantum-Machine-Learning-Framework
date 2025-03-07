@@ -1,0 +1,41 @@
+# Python virtual environment
+quantum_ml_env/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Downloaded datasets
+data/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local development settings
+*.env
+.env
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
